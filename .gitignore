@@ -1,0 +1,31 @@
+# editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.icloud
+*.iml
+
+# virtualenv
+bin
+lib64
+share
+Lib
+Include
+Scripts
+pyvenv.cfg
+
+# python
+__pycache__
+*.pyc
+
+# properties file
+*.ini
+
+# dump
+dump*.txt
+
+# nodejs
+node_modules
